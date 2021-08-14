@@ -1,0 +1,16 @@
+form {
+    font-size: 20px;
+}
+
+legend {
+    
+    font-weight: bold;
+}
+
+fieldset {
+    border: 1px steelblue solid;
+}
+
+div {
+    display: inline-block;
+}
